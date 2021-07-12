@@ -16,8 +16,23 @@ One collection:
 * Mock Customer Data
 
 ## MongoPubs.zip
-One collection:
-* UK Pub data
+Thirteen collections, based on tables from a Sybase example for publishers:
+* Authors
+* Discounts
+* Employees
+* Jobs
+* Publishers
+* Publisher info (including logos)
+* Royalty schedules
+* Sales
+* Stores
+* Tag names
+* Tag titles
+* Title Authors
+* Titles
+
+
+
 
 
 
