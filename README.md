@@ -16,7 +16,8 @@ One collection:
 * Mock Customer Data
 
 ## MongoPubs.zip
-Thirteen collections, based on tables from a Sybase example for publishers:
+Thirteen collections, based on tables from a Sybase example for publishers. These collections represent a very normalized SQL database, and so are ideal for JOINs and LOOKUPs. References are by integer values:
+
 * Authors
 * Discounts
 * Employees
