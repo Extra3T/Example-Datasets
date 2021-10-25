@@ -15,8 +15,8 @@ Two collections:
 One collection:
 * Mock Customer Data
 
-## MongoPubs.zip
-Thirteen collections, based on tables from a Sybase example for publishers. These collections represent a very normalized SQL database, and so are ideal for JOINs and LOOKUPs. References are by integer values:
+## Pubs.zip
+Thirteen collections, based on tables from a Sybase example for publishers. These files are JSON files, ideal for importing with Studio 3T. These collections represent a very normalized SQL database, and so are ideal for JOINs and LOOKUPs. References are by integer values:
 
 * Authors
 * Discounts
